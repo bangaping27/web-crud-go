@@ -19,3 +19,8 @@ function addNumbers(a, b) {
   return a + b;
 }
 ```
+```javascript
+function addTwoNumbers(num1, num2) {
+  return num1 + num2;
+}
+```
