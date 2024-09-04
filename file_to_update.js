@@ -30,3 +30,8 @@ function addTwoNumbers(a, b) {
   return a + b;
 }
 ```
+```javascript
+function add(a, b) {
+  return a + b;
+}
+```
