@@ -77,3 +77,8 @@ function addTwoNumbers(num1, num2) {
 ```
 const add = (a, b) => a + b;
 ```
+```javascript
+function addNumbers(num1, num2) {
+  return num1 + num2;
+}
+```
